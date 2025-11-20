@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b8dee80-c2c1-4b5e-b1cc-059bf91b927b" name="Changes" comment="" />
+    <list default="true" id="5b8dee80-c2c1-4b5e-b1cc-059bf91b927b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/scala/LongestSubStringWithoutRepeatChars.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/LongestSubStringWithoutRepeatChars.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.3.7/classes/LongestSubStringWithoutRepeatChars$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.7/classes/LongestSubStringWithoutRepeatChars$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.3.7/classes/LongestSubStringWithoutRepeatChars.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.7/classes/LongestSubStringWithoutRepeatChars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.3.7/classes/LongestSubStringWithoutRepeatChars.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.7/classes/LongestSubStringWithoutRepeatChars.tasty" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +55,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/eric/Documents/GitHub/ScalaHackerEarthPrep/ScalaHackerEarth"
   }
