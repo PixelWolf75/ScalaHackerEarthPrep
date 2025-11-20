@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b8dee80-c2c1-4b5e-b1cc-059bf91b927b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/scala/LongestSubStringWithoutRepeatChars.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/LongestSubStringWithoutRepeatChars.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.3.7/classes/LongestSubStringWithoutRepeatChars$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.7/classes/LongestSubStringWithoutRepeatChars$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.3.7/classes/LongestSubStringWithoutRepeatChars.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.7/classes/LongestSubStringWithoutRepeatChars.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.3.7/classes/LongestSubStringWithoutRepeatChars.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.7/classes/LongestSubStringWithoutRepeatChars.tasty" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/MedianOfTwoArrays.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
