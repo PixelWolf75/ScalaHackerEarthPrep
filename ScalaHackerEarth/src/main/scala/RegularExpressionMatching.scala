@@ -9,30 +9,27 @@ object RegularExpressionMatching {
     var prev = ' '
     for(c <- s){
       var ex = p(pointer)
-      
-      if(c != ex){
-        if(c != '.'){
-          pointer += 1
-          ex = p(pointer)
-          if (ex != '*') {
-            matchReg = false
+
+      if(c != ex || ex != '.'){
+        ex match {
+          case '*' => {
+
           }
-          else {
+          case _ => {
             pointer += 1
+            ex = p(pointer)
+            if (ex != '*') {
+              matchReg = false
+            }
+            else {
+              pointer += 1
+            }
           }
         }
       }
-      
-      ex match{
-        case '.' =>{
-
-        }
-        case '*' =>{
-
-        }
-        case _ =>{
-          prev = ex
-        }
+      else{
+        prev = c
+        pointer += 1
       }
     }
     matchReg

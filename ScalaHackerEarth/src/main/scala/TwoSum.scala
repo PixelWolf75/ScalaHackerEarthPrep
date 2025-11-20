@@ -32,7 +32,9 @@ object TwoSum {
     breakable {
       for (i <- numSorted.indices) {
         val a = numSorted(i)
-        for (j <- (i + 1) until numSorted.size if (numSorted(j) <= target) if(numSorted(j) + a <= target)) {
+        for (j <- (i + 1) until numSorted.size
+             if (numSorted(j) <= target)
+             if(numSorted(j) + a <= target)) {
           val b = numSorted(j)
           if (a + b == target) {
             indexA = i
