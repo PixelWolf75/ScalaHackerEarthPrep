@@ -6,7 +6,7 @@ object LongestSubStringWithoutRepeatChars {
     val input = readLine()
     println(longestSubString(input))
   }
-  //test
+  
   private def longestSubString(s : String): Int = {
     var start = 0
     var end = 0
