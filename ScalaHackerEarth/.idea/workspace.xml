@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b8dee80-c2c1-4b5e-b1cc-059bf91b927b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/MedianOfTwoArrays.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/LargestPalindrome.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.3.7/classes/MedianOfTwoArrays$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.7/classes/MedianOfTwoArrays$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.3.7/classes/MedianOfTwoArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.7/classes/MedianOfTwoArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.3.7/classes/MedianOfTwoArrays.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.7/classes/MedianOfTwoArrays.tasty" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +52,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.LargestPalindrome.executor": "Run",
     "Application.LongestSubStringWithoutRepeatChars.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -63,7 +67,14 @@
       <recent name="C:\Users\eric\Documents\GitHub\ScalaHackerEarth\src\main\scala" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.LargestPalindrome">
+    <configuration name="LargestPalindrome" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="LargestPalindrome" />
+      <module name="ScalaHackerEarth.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LongestSubStringWithoutRepeatChars" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="LongestSubStringWithoutRepeatChars" />
       <module name="ScalaHackerEarth.main" />
@@ -73,6 +84,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LargestPalindrome" />
         <item itemvalue="Application.LongestSubStringWithoutRepeatChars" />
       </list>
     </recent_temporary>
