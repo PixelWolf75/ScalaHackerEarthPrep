@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ScalaHackerEarth.iml" filepath="$PROJECT_DIR$/.idea/modules/ScalaHackerEarth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ScalaHackerEarth/ScalaHackerEarth.iml" filepath="$PROJECT_DIR$/.idea/modules/ScalaHackerEarth/ScalaHackerEarth.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ScalaHackerEarth/ScalaHackerEarth.ScalaHackerEarth-build.iml" filepath="$PROJECT_DIR$/.idea/modules/ScalaHackerEarth/ScalaHackerEarth.ScalaHackerEarth-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ScalaHackerEarth/ScalaHackerEarth.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ScalaHackerEarth/ScalaHackerEarth.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ScalaHackerEarth/ScalaHackerEarth.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ScalaHackerEarth/ScalaHackerEarth.test.iml" />

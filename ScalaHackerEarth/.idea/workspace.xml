@@ -18,12 +18,27 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "PixelWolf75"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PixelWolf75/ScalaHackerEarthPrep.git",
+    "accountId": "386d62b1-b599-48e3-9ef3-ea168938fb25"
+  }
+}]]></component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="35k1WQHep0dc0BErPa1gifEVASr" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,7 +49,9 @@
     "Application.LongestSubStringWithoutRepeatChars.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/eric/Documents/GitHub/ScalaHackerEarth/src/main/scala"
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/eric/Documents/GitHub/ScalaHackerEarthPrep/ScalaHackerEarth"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -59,9 +76,6 @@
   <component name="ScalaProjectSettings">
     <option name="migrateConfigurationsNotificationShown" value="true" />
     <option name="scala3DisclaimerShown" value="true" />
-  </component>
-  <component name="ShouldUpdateRunConfigurations">
-    <option name="isDowngrading" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
