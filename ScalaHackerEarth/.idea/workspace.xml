@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b8dee80-c2c1-4b5e-b1cc-059bf91b927b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ZigzagConversion.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/PalindromeNumber.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/RegularExpressionMatching.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/LargestPalindrome.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/LargestPalindrome.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.3.7/classes/ZigzagConversion$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.7/classes/ZigzagConversion$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.3.7/classes/ZigzagConversion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.7/classes/ZigzagConversion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.3.7/classes/ZigzagConversion.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.7/classes/ZigzagConversion.tasty" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +56,7 @@
   "keyToString": {
     "Application.LargestPalindrome.executor": "Run",
     "Application.LongestSubStringWithoutRepeatChars.executor": "Run",
+    "Application.PalindromeNumber.executor": "Run",
     "Application.ZigzagConversion.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -65,7 +71,7 @@
       <recent name="C:\Users\eric\Documents\GitHub\ScalaHackerEarth\src\main\scala" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ZigzagConversion">
+  <component name="RunManager" selected="Application.PalindromeNumber">
     <configuration name="LargestPalindrome" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="LargestPalindrome" />
       <module name="ScalaHackerEarth.main" />
@@ -80,6 +86,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="PalindromeNumber" />
+      <module name="ScalaHackerEarth.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ZigzagConversion" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ZigzagConversion" />
       <module name="ScalaHackerEarth.main" />
@@ -89,6 +102,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalindromeNumber" />
         <item itemvalue="Application.ZigzagConversion" />
         <item itemvalue="Application.LargestPalindrome" />
         <item itemvalue="Application.LongestSubStringWithoutRepeatChars" />
@@ -108,5 +122,21 @@
       <updated>1763639288429</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/PalindromeNumber.scala</url>
+          <line>22</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/PalindromeNumber.scala</url>
+          <line>25</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

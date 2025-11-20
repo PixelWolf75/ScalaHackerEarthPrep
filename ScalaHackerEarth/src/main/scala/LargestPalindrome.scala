@@ -37,6 +37,4 @@ object LargestPalindrome {
       palindrome
     }
   }
-
-
 }
