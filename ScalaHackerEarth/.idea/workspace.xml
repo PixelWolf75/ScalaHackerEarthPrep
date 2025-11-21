@@ -6,13 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="5b8dee80-c2c1-4b5e-b1cc-059bf91b927b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/AddTwoNumbers.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/AddTwoNumbers.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/WaterHeight.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/WaterHeight.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.3.7/classes/AddTwoNumbers$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.7/classes/AddTwoNumbers$.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.3.7/classes/AddTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.7/classes/AddTwoNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.3.7/classes/AddTwoNumbers.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.7/classes/AddTwoNumbers.tasty" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.3.7/classes/WaterHeight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.7/classes/WaterHeight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-3.3.7/classes/WaterHeight.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.7/classes/WaterHeight.tasty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/RegularExpressionMatching.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/RegularExpressionMatching.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.3.7/classes/RegularExpressionMatching$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.7/classes/RegularExpressionMatching$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.3.7/classes/RegularExpressionMatching.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.7/classes/RegularExpressionMatching.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-3.3.7/classes/RegularExpressionMatching.tasty" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-3.3.7/classes/RegularExpressionMatching.tasty" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +55,7 @@
     "Application.LargestPalindrome.executor": "Run",
     "Application.LongestSubStringWithoutRepeatChars.executor": "Run",
     "Application.PalindromeNumber.executor": "Run",
+    "Application.RegularExpressionMatching.executor": "Run",
     "Application.ZigzagConversion.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -72,7 +70,7 @@
       <recent name="C:\Users\eric\Documents\GitHub\ScalaHackerEarth\src\main\scala" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PalindromeNumber">
+  <component name="RunManager" selected="Application.RegularExpressionMatching">
     <configuration name="LargestPalindrome" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="LargestPalindrome" />
       <module name="ScalaHackerEarth.main" />
@@ -94,6 +92,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RegularExpressionMatching" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="RegularExpressionMatching" />
+      <module name="ScalaHackerEarth.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ZigzagConversion" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ZigzagConversion" />
       <module name="ScalaHackerEarth.main" />
@@ -103,6 +108,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RegularExpressionMatching" />
         <item itemvalue="Application.PalindromeNumber" />
         <item itemvalue="Application.ZigzagConversion" />
         <item itemvalue="Application.LargestPalindrome" />
