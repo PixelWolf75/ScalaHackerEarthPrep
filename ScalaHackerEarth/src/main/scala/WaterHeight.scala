@@ -11,12 +11,14 @@ object WaterHeight {
       var volume = 0
       val j = i + 1
       heights.drop(j).foreach(h => {
+        var volumeTemp = 0
         if(base < h){
-          volume = base * (j - prev)
+          volumeTemp = base * (j - prev)
         }
         else{
-          volume = h * (j - prev)
+          volumeTemp = h * (j - prev)
         }
+        volume = if(volume < volumeTemp) volumeTemp else volume
       })
       volumes = volumes :+ volume
       prev += 1
