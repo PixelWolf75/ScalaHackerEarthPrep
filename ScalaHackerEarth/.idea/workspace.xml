@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b8dee80-c2c1-4b5e-b1cc-059bf91b927b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/SumTriplets.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/DeleteFromLinkedList.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/PhoneNumberMapping.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,6 +140,11 @@
           <url>file://$PROJECT_DIR$/src/main/scala/PalindromeNumber.scala</url>
           <line>25</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/main/scala/PhoneNumberMapping.scala</url>
+          <line>17</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
