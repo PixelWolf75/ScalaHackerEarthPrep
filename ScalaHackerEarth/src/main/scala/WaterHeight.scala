@@ -4,7 +4,7 @@ object WaterHeight {
   }
 
   def waterHeight(heights:List[Int]):Int = {
-    
+
 
     0
   }
